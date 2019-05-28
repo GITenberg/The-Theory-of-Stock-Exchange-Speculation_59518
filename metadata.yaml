@@ -1,0 +1,25 @@
+_repo: The-Theory-of-Stock-Exchange-Speculation_59518
+_version: 0.0.1
+contributor:
+  annotator:
+    agent_name: Rosenbaum, H. W.
+    gutenberg_agent_id: '50484'
+    url: http://www.gutenberg.org/2009/agents/50484
+creator:
+  author:
+    agent_name: Crump, Arthur
+    gutenberg_agent_id: '50483'
+    url: http://www.gutenberg.org/2009/agents/50483
+description: ''
+gutenberg_issued: '2019-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Theory of Stock Exchange Speculation
+url: http://www.gutenberg.org/ebooks/59518
