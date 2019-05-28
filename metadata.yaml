@@ -1,16 +1,21 @@
 _repo: The-Theory-of-Stock-Exchange-Speculation_59518
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Rosenbaum, H. W.
     gutenberg_agent_id: '50484'
     url: http://www.gutenberg.org/2009/agents/50484
+covers:
+- cover_type: archival
+  image_path: 59518-h/images/cover.jpg
 creator:
   author:
     agent_name: Crump, Arthur
     gutenberg_agent_id: '50483'
     url: http://www.gutenberg.org/2009/agents/50483
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59518#The-Theory-of-Stock-Exchange-Speculation
 gutenberg_issued: '2019-05-16'
 gutenberg_type: Text
 identifiers:
